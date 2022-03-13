@@ -1,0 +1,1 @@
+# schm-mock-site-resources
