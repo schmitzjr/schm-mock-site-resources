@@ -1,1 +1,17 @@
-
+[
+  {
+    "label":"Instagram",
+    "icon":"https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/instagram.svg",
+    "link":"https://www.instagram.com/ivanschmitzjunior/"
+  },
+  {
+    "label":"Facebook",
+    "icon":"https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/facebook.svg",
+    "link":"https://www.facebook.com/ivan.schmitzjunior"
+  },
+  {
+    "label":"Twitter",
+    "icon":"https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/twitter.svg",
+    "link":"https://twitter.com/_schmitzjr"
+  }
+]
