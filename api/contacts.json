@@ -1,27 +1,27 @@
 [
   {
     "title":"Canal do YouTube",
-    "label":"youtube.com/wdevoficial",
-    "link":"https://youtube.com/wdevoficial"
+    "label":"youtube.com/user/schmitzjrbr",
+    "link":"https://www.youtube.com/user/schmitzjrbr/videos"
   },
   {
     "title":"Instagram",
-    "label":"instagram.com/wdevoficial",
-    "link":"https://instagram.com/wdevoficial"
+    "label":"instagram.com/ivanschmitzjunior",
+    "link":"https://www.instagram.com/ivanschmitzjunior/"
   },
   {
     "title":"Facebook",
-    "label":"facebook.com/wdevoficial",
-    "link":"https://facebook.com/wdevoficial"
+    "label":"facebook.com/ivan.schmitzjunior",
+    "link":"https://www.facebook.com/ivan.schmitzjunior"
   },
   {
     "title":"Twitter",
-    "label":"twitter.com/wdevoficial",
-    "link":"https://twitter.com/wdevoficial"
+    "label":"twitter.com/_schmitzjr",
+    "link":"https://twitter.com/_schmitzjr"
   },
   {
     "title":"E-mail",
-    "label":"canalwdev@gmail.com",
-    "link":"mailto:canalwdev@gmail.com"
+    "label":"schmitzjr@gmail.com",
+    "link":"mailto:schmitzjr@gmail.com"
   }
 ]
